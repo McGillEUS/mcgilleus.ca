@@ -1,1 +1,0 @@
-<div class="owl-item"><img src='<?php print file_create_url($row->_field_data['nid']['entity']->field_client_image['und'][0]['uri']);?>' alt='client'/></div>
