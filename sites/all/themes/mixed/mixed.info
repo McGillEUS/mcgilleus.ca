@@ -1,0 +1,82 @@
+name = Mixed
+description = Mixed - Modern and Professional Drupal Theme.
+version = VERSION
+core = 7.x
+
+;css style
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/retina.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/animate.css
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = linecons/linecons.css
+stylesheets[all][] = pixons/style.css
+stylesheets[all][] = css/magnific-popup.css
+stylesheets[all][] = css/nivo-slider.css
+stylesheets[all][] = css/owl.carousel.css
+stylesheets[all][] = css/hint.min.css
+stylesheets[all][] = js/jplayer/skin/pixel-industry/pixel-industry.css
+
+
+
+; Scripts
+scripts[] = js/bootstrap.min.js
+scripts[] = js/jquery.srcipts.min.js
+scripts[] = js/jquery.isotope.min.js
+scripts[] = js/jquery.magnific-popup.min.js
+scripts[] = js/jquery.countTo.js
+scripts[] = js/jquery.matchHeight-min.js
+scripts[] = js/owl.carousel.js
+scripts[] = js/jquery.nivo.slider.pack.js
+scripts[] = js/jquery.isotope.min.js
+scripts[] = js/portfolio.js
+scripts[] = js/socialstream.jquery.js
+scripts[] = js/easypiechart.js
+scripts[] = js/less.js
+scripts[] = js/include.js
+
+;Regions position
+regions[top_bar] = Top Bar
+regions[main_menu] = Main Menu
+regions[slider] = Slider
+regions[page_title] = Page Title
+regions[top_content] = Top Content
+regions[feature1] = Feature 1
+regions[feature2] = Feature 2
+regions[feature3] = Feature 3
+regions[feature4] = Feature 4
+regions[contenttop1] = Content Top 1
+regions[contenttop2] = Content Top 2
+regions[contenttop3] = Content Top 3
+regions[contenttop4] = Content Top 4
+regions[bc_no_w] = Before Content No Wrap
+regions[sidebar_left] = Sidebar Left
+regions[content] = Content
+regions[sidebar_right] = Sidebar Right
+regions[ac_no_w] = After Content No Wrap
+regions[last1] = Last 1
+regions[last2] = Last 2
+regions[last3] = Last 3
+regions[last4] = Last 4
+regions[bottom_line1] = Bottom Line 1
+regions[bottom_line2] = Bottom Line 2
+regions[bottom_line3] = Bottom Line 3
+regions[bottom_line4] = Bottom Line 4
+regions[bottom1] = Bottom 1
+regions[bottom2] = Bottom 2
+regions[bottom3] = Bottom 3
+regions[bottom4] = Bottom 4
+regions[b_no_w] = Bottom No Wrap
+regions[footer1] = Footer 1
+regions[footer2] = Footer 2
+regions[footer3] = Footer 3
+regions[footer4] = Footer 4
+regions[footer_a] = Footer A
+regions[footer_b] = Footer B
+
+
+settings[mixed_boxed]  = 0
+settings[header] = 1
+settings[theme_color_palette]  = default
+settings[mixed_boxed]  = 0
